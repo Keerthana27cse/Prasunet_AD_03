@@ -29,8 +29,8 @@ A simple and user-friendly stopwatch application developed using Android Studio 
 
 1. **Clone the Repository**:
    ```bash
+   https://github.com/Keerthana27cse/Prasunet_AD_03.git
 
-
-
+**#prasunet**
 
 
