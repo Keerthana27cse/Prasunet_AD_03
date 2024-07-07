@@ -6,7 +6,7 @@ A simple and user-friendly stopwatch application developed using Android Studio 
 
 ## Features
 
-- **Start/Stop Stopwatch**: Easily start and stop the stopwatch with a single button.
+- **Start/Stop Stopwatch**: Easily start and stop the stopwatch with buttons.
 - **Reset Stopwatch**: Reset the stopwatch to zero.
 - **User-Friendly Interface**: Simple and intuitive user interface.
 
